@@ -9,3 +9,4 @@ Made in collaboration with:
 
 
 It's the basic animation which allows the user to see every of the seven different fractals-types implemented.
+Currently documentation is written in Polish language.
